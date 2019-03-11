@@ -1,9 +1,0 @@
-```{r, include=FALSE}
-source("before_chapter.R")
-```
-
-# (PART) Techniques {-} 
-
-# Debugging
-
-No exercises, but potentially some of our experiences regarding the presented debugging-techniques.

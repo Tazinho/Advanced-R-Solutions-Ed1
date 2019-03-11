@@ -1,9 +1,0 @@
-```{r, include=FALSE}
-source("before_chapter.R")
-```
-
-# (PART) Metaprogramming {-} 
-
-# Big picture
-
-tbd
