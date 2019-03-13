@@ -2,7 +2,6 @@ new_session: yes
 
 rmd_files: [
   "index.Rmd"
- ,"1-00-Introduction_1st_ed.Rmd"          
  ,"1-01-Data_structures.Rmd"          
  ,"1-02-Subsetting.Rmd"               
  ,"1-03-Functions.Rmd"                
