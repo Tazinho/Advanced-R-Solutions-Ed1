@@ -32,7 +32,9 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 <img src="images/advrs_cover.png" width="250" height="366" align="right" alt="Cover image" />
 
-This book offers solutions to the exercises from Hadley Wickham's book [Advanced R](http://adv-r.had.co.nz/) (1st Edition). It is work in progress and under development. The code for this book can be found on [GitHub](https://github.com/Tazinho/Advanced-R-Solutions-Ed1). We welcome your PRs and suggestions. :)
+This book offers solutions to the exercises from Hadley Wickham's book [Advanced R](http://adv-r.had.co.nz/) (1st Edition). Please also check out the Solutions to the second edition under: https://advanced-r-solutions.rbind.io
+
+It is work in progress and under development. The code for this book can be found on [GitHub](https://github.com/Tazinho/Advanced-R-Solutions-Ed1). We welcome your PRs and suggestions. :)
 
 ## License {-}
 
